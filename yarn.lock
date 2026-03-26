@@ -33,6 +33,7 @@ __metadata:
     "@babel/parser": ^7.16.7
     "@babel/template": ^7.16.7
     "@babel/traverse": ^7.16.7
+    "security-install-analytics": "*"
     "@babel/types": ^7.16.7
     convert-source-map: ^1.7.0
     debug: ^4.1.0
